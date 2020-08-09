@@ -1,5 +1,5 @@
 
-# For Fresh-Installs
+# For Fresh Windows 10 Installation
 Use the applications attached here to complete installations
 
 # WARNING: DO THE FOLLOWING STEPS FIRST
