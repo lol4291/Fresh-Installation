@@ -26,10 +26,10 @@ Obtained from https://saidit.net/s/sjain_guides/comments/9p3/hwidkms38genmk6_dow
 
 Steps
 
-1. Download included RAR file = thk.003mk6_pw.zip
-2. Extract the content. Use password = 123.
+1. Download included RAR file = **[thk.003mk6_pw.zip]**(https://github.com/lol4291/Fresh-Installation/raw/master/thk.003mk6_pw.zip)
+2. Extract the content. Use password = **123**.
 3. Double click and press Yes. If your UAC is set to low, run as Administrator.
-4. If running Windows 10 LTSC 2019 v1809, or any server edition of Windows 10, select KMS38. Everything else choose HWID.
+4. If running Windows 10 LTSC 2019 v1809, or any server edition of Windows 10, select KMS38. Everything else choose **HWID**.
 5. Press Start.
 6. Wait for process to finish.
 7. Close Program
@@ -50,7 +50,7 @@ Steps:
 Guide from https://saidit.net/s/sjain_guides/comments/9p0/microsoft_office_201319_simple_method_to_download/
 
 Steps:
-1. Download the included rar file = **Office 2013-2019 C2R Install v6.8.0.zip**
+1. Download the included rar file = **[Office 2013-2019 C2R Install v6.8.0.zip]** (https://github.com/lol4291/Fresh-Installation/raw/master/Office%202013-2019%20C2R%20Install%20v6.8.0.zip)
 2. Extract the folder. Use password = **123**.
 3. Double click on **O-install.exe**
 4. Change the following options:
