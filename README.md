@@ -4,19 +4,19 @@ Use the applications attached here to complete installations
 
 # WARNING: DO THE FOLLOWING STEPS FIRST
 
-1. Go to Start, search Windows Security
-2. Click on Virus and Threat Protection.
-3. Under Virus & threat protection setting, click Manage settings.
+1. Go to Start, search **Windows Security**
+2. Click on **Virus and Threat Protection**.
+3. Under Virus & threat protection setting, click **Manage settings**.
 4. Turn off the following:
-   * Real-time protection
-   * Cloud-delivered protection
-   * Automatic Sample Submission
-   * Tamper Protection
-5. On left hand side, click Firewall & Network Protection
+   * **Real-time protection**
+   * **Cloud-delivered protection**
+   * **Automatic Sample Submission**
+   * **Tamper Protection**
+5. On left hand side, click **Firewall & Network Protection**
 6. Turn off the following:
-   * Domain Network
-   * Public Network
-   * Private Network
+   * **Domain Network**
+   * **Public Network**
+   * **Private Network**
 
 Follow these phases:
 
@@ -28,7 +28,7 @@ Steps
 
 1. Download included RAR file = **[thk.003mk6_pw.zip](https://github.com/lol4291/Fresh-Installation/raw/master/thk.003mk6_pw.zip)**
 2. Extract the content. Use password = **123**.
-3. Double click and press Yes. If your UAC is set to low, run as Administrator.
+3. Double click and press **Yes**. If your UAC is set to low, run as Administrator.
 4. If running Windows 10 LTSC 2019 v1809, or any server edition of Windows 10, select KMS38. Everything else choose **HWID**.
 5. Press Start.
 6. Wait for process to finish.
@@ -39,7 +39,7 @@ Steps
 
 Steps:
 1. Right click on the Start Button.
-2. Click on Windows Powershell (Admin).
+2. Click on **Windows Powershell (Admin)**.
 3. Paste in the following line
 > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/lol4291/win10script/Modified-to-use/win10debloat.ps1')"
 4. Wait for it to complete, it'll take some time.
@@ -72,16 +72,16 @@ After Installation:
 
 # After Win Activation and/or Office Installation, turn back on all the settings.
 
-1. Go to Start, search Windows Security
-2. Click on Virus and Threat Protection.
-3. Under Virus & threat protection setting, click Manage settings.
+1. Go to Start, search **Windows Security**
+2. Click on **Virus and Threat Protection**.
+3. Under Virus & threat protection setting, click **Manage settings**.
 4. Turn on the following:
-   * Real-time protection
-   * Cloud-delivered protection
-   * Automatic Sample Submission
-   * Tamper Protection
-5. On left hand side, click Firewall & Network Protection
+   * **Real-time protection**
+   * **Cloud-delivered protection**
+   * **Automatic Sample Submission**
+   * **Tamper Protection**
+5. On left hand side, click **Firewall & Network Protection**
 6. Turn on the following:
-   * Domain Network
-   * Public Network
-   * Private Network
+   * **Domain Network**
+   * **Public Network**
+   * **Private Network**
